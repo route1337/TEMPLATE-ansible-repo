@@ -15,9 +15,24 @@ What this role does
 -------------------
 CHANGEME
 
+This role does some stuff.
+
+1. Some stuff
+2. More stuff
+    1. Even more stuff
+3. Lots more stuff
+
 Variables
 ---------
 CHANGEME
+
+The following variables are required:
+
+1. `changeme.required_var` - A variable that is required.
+
+The following variables are optional:
+
+1. `changeme.optional_var` - A variable that is optional.
 
 Testing
 -------

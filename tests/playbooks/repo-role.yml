@@ -12,7 +12,7 @@
 
 # This playbook tests the role of this repo
 
-# Run the single role in this repo on all linux systems
+# Run the single role in this repo on all systems in kitchen
 - hosts: kitchen
   roles:
     - '/tmp/kitchen/roles'

@@ -11,7 +11,15 @@
 
 # Prereqs tests
 
+if ['ubuntu', 'centos'].include?(os[:name])
+  # Do something
+else
+  # Do nothing
+end
+
 if os[:name] == 'ubuntu'
+  # Do something
+elsif os[:name] == 'centos'
   # Do something
 else
   # Do nothing

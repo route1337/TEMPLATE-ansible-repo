@@ -22,9 +22,6 @@ galaxy_info:
       versions:
         - xenial
         - bionic
-    - name: EL
-      versions:
-        - 7
-        - 8
+        - focal
   galaxy_tags:
     - CHANGEME
